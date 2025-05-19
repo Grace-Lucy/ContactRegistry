@@ -1,0 +1,11 @@
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/com/mycompany/contact_registry/resources/JakartaEE10Resource.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/Model/User.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/Controller/ListUsers.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/Service/UserService.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/Util/DBUtil.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/Controller/DeleteUser.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/Controller/UpdateUser.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/dao/UserDao.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/com/mycompany/contact_registry/JakartaRestConfiguration.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/Controller/CreateUser.java
+/home/lucy/NetBeansProjects/Contact_Registry/src/main/java/Controller/EditUser.java

@@ -1,0 +1,11 @@
+com/mycompany/contact_registry/JakartaRestConfiguration.class
+Controller/ListUsers.class
+Service/UserService.class
+Controller/EditUser.class
+Controller/DeleteUser.class
+Controller/UpdateUser.class
+dao/UserDao.class
+com/mycompany/contact_registry/resources/JakartaEE10Resource.class
+Model/User.class
+Controller/CreateUser.class
+Util/DBUtil.class
